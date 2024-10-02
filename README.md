@@ -1,2 +1,5 @@
 # GenerativeArt-CreativeEmbeddedSys
 This project was a part of a collaborative generative art gallery for my Creative Embedded Systems class. We were tasked with creating art displays with our Arduino ESP32 LilyGO T-Display Screens and envelopes we customized to fit our designs. 
+
+### Blog Post
+Here's a link to my blog post which delves a bit more into the inspiration behind the project: 
