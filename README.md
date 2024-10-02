@@ -8,11 +8,7 @@ This project was part of a collaborative generative art gallery for my Creative 
 In the file included in this github repo named fall_generative_art_sketch.ino, you should follow this instructions to display this on your own device:
 
 Prequisites:
-    -TTGO T-display Driver
-    -Arduino IDE
-    -ESP32 TTGO T-display
-    -TFT_eSPI library (Installable through Arduino IDE)
-    -ESP32 Board Definition/Library Installed
+TTGO T-display Driver, Arduino IDE, ESP32 TTGO T-display board, TFT_eSPI library (Installable through Arduino IDE), ESP32 Board Definition/Library Installed
     
 
 1. Download the fall_generative_art_sketch.ino file in this repository
