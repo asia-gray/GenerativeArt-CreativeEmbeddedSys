@@ -26,3 +26,5 @@ In case you don't have an Arduino ESP32 LilyGO T-Display, you can always check o
 ### Blog Post
 Here's a link to my blog post which delves a bit more into the inspiration behind the project: 
 Spoiler alert: It involves pumpkin spice and the great Frankie Beverly (Rest in Peace)!
+
+https://medium.com/@abg2193/generative-art-pumpkin-spice-joy-pain-sunshine-and-rain-447f98654b74
